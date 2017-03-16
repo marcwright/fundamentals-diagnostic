@@ -51,9 +51,9 @@ On GitHub, in your copy of the repository, find the clone URL widget - SSH/HTTPS
 drop-down, corresponding URL text-box, and `Copy to clipboard` button (centered
 in the following image).
 
-![Remotes](https://cloud.githubusercontent.com/assets/10408784/13907024/1ea37866-eebb-11e5-9a91-a1898e351c13.png)
+![Remotes](https://cloud.githubusercontent.com/assets/12991284/21773348/ae228e80-d65c-11e6-95a0-1322f35aa0a4.png)
 
-Before copying the clone URL to the clipboard, use the drop-down to select
+Before copying the clone URL to the clipboard, click the button to select
 `SSH`. In [Which remote URL should I
 use?](https://help.github.com/articles/which-remote-url-should-i-use/) GitHub
 recommends using `https` remotes.  We will always use `ssh` remotes during your
@@ -61,7 +61,7 @@ training.
 
 Click the 'Copy to clipboard' button.
 
-![Copy clone URL to clipboard](https://cloud.githubusercontent.com/assets/8379295/15277267/c00d03b0-1acc-11e6-97bb-70e52ffdfd44.png)
+![Copy clone URL to clipboard](https://cloud.githubusercontent.com/assets/12667121/24016416/659baff4-0a62-11e7-85ee-5118f1a2c4fc.png)
 
 **Remember** it should say `SSH` in the drop-down when you do.
 
