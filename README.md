@@ -83,6 +83,9 @@ remote: Compressing objects: 100% (5/5), done.
 remote: Total 5 (delta 0), reused 4 (delta 0), pack-reused 0
 Receiving objects: 100% (5/5), done.
 Checking connectivity... done.
+```
+Then change into the directory you've just cloned:
+```sh
 cd fundamentals-diagnostic
 ```
 
